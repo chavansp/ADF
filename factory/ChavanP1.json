@@ -1,0 +1,15 @@
+{
+	"name": "ChavanP1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "478908d1-24b1-41f6-92e0-f310e7d178b9",
+		"tenantId": "af881f87-5ae7-4989-a3dc-d8b754c20f1c"
+	}
+}
